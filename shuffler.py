@@ -5,7 +5,7 @@ import random
 import pc_pb_2021_cargo_7
 
 q = list()
-q += pc_pb_2021_cargo_7.q
+q += pc_pb_2021_cargo_7.tecnologia
 random.shuffle(q)
 
 
