@@ -15,7 +15,7 @@ tecnologia = [
     },
     {
         'q': [
-            '<!-- PC-PB 2021 - Cargo 7 Questão xx -->',
+            '<!-- PC-PB 2021 - Cargo 7 Questão 54 -->',
             '![](./pc_pb_2021_cargo_7/pc_pb_2021_cargo_7_54.png)',
             '''O tipo de virtualização antes ilustrado, em que a máquina virtual enxerga uma abstração do hardware não idêntica à do hardware físico, que requer modificação do sistema operacional convidado, é conhecido como''',
         ],
@@ -25,6 +25,20 @@ tecnologia = [
             'virtualização por hypervisor.',
             'paravirtualização.',
             'virtualização assistida.',
+        ],
+        'r': '',
+    },
+    {
+        'q': [
+            '<!-- PC-PB 2021 - Cargo 7 Questão 55 -->',
+            '''O serviço no qual o provedor de nuvem fornece servidores, armazenamento, rede e ferramentas para desenvolver, testar, hospedar e entregar aplicativos e os clientes podem usar um conjunto de ferramentas pré-montadas é conhecido como''',
+        ],
+        'e': [
+            'Containers as a Service (CaaS).',
+            'Function as a Service (FaaS).',
+            'Service as a Service (SaaS).',
+            'Infrastructure as a Service (IaaS).',
+            'Platform as a Service (PaaS).',
         ],
         'r': '',
     },
