@@ -42,6 +42,20 @@ tecnologia = [
         ],
         'r': '',
     },
+    {
+        'q': [
+            '<!-- PC-PB 2021 - Cargo 7 Questão 56 -->',
+            '''No sistema de arquivos NTFS, presente no Windows Server 2012 R2, o arquivo de sistema que possui pelo menos uma entrada para cada arquivo de um volume NTFS, inclusive a do próprio arquivo de sistema, e que guarda todas as informações sobre um arquivo, incluindo tamanho e permissões, é o''',
+        ],
+        'e': [
+            'volume boot record (VBR).',
+            'bitmap - cluster bitmap.',
+            'master file table (MFT).',
+            'secure - security file.',
+            'extend - NTFS extension file.',
+        ],
+        'r': '',
+    },
     #{
         #'q': [
             #'<!-- PC-PB 2021 - Cargo 7 Questão xx -->',
