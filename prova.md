@@ -3,29 +3,29 @@
 
 Questão 1
 
-<!-- PC-PB 2021 - Cargo 7 Questão 55 -->
+<!-- PC-PB 2021 - Cargo 7 Questão 56 -->
 
-O serviço no qual o provedor de nuvem fornece servidores, armazenamento, rede e ferramentas para desenvolver, testar, hospedar e entregar aplicativos e os clientes podem usar um conjunto de ferramentas pré-montadas é conhecido como
+No sistema de arquivos NTFS, presente no Windows Server 2012 R2, o arquivo de sistema que possui pelo menos uma entrada para cada arquivo de um volume NTFS, inclusive a do próprio arquivo de sistema, e que guarda todas as informações sobre um arquivo, incluindo tamanho e permissões, é o
 
-a. Platform as a Service (PaaS).
-b. Infrastructure as a Service (IaaS).
-c. Containers as a Service (CaaS).
-d. Service as a Service (SaaS).
-e. Function as a Service (FaaS).
+- a. volume boot record (VBR).
+- b. secure - security file.
+- c. extend - NTFS extension file.
+- d. bitmap - cluster bitmap.
+- e. master file table (MFT).
 
 ---
 
 Questão 2
 
-<!-- PC-PB 2021 - Cargo 7 Questão 56 -->
+<!-- PC-PB 2021 - Cargo 7 Questão 55 -->
 
-No sistema de arquivos NTFS, presente no Windows Server 2012 R2, o arquivo de sistema que possui pelo menos uma entrada para cada arquivo de um volume NTFS, inclusive a do próprio arquivo de sistema, e que guarda todas as informações sobre um arquivo, incluindo tamanho e permissões, é o
+O serviço no qual o provedor de nuvem fornece servidores, armazenamento, rede e ferramentas para desenvolver, testar, hospedar e entregar aplicativos e os clientes podem usar um conjunto de ferramentas pré-montadas é conhecido como
 
-a. secure - security file.
-b. volume boot record (VBR).
-c. bitmap - cluster bitmap.
-d. extend - NTFS extension file.
-e. master file table (MFT).
+- a. Platform as a Service (PaaS).
+- b. Containers as a Service (CaaS).
+- c. Infrastructure as a Service (IaaS).
+- d. Function as a Service (FaaS).
+- e. Service as a Service (SaaS).
 
 ---
 
@@ -35,11 +35,11 @@ Questão 3
 
 O esquema RAID que possui dois cálculos de paridade diferentes, executados e armazenados em blocos separados em discos distintos, e que necessita de D+2 discos, em que D é a quantidade de discos necessária para armazenar os dados do usuário, é o
 
-a. RAID 0.
-b. RAID 3.
-c. RAID 6.
-d. RAID 5.
-e. RAID 1.
+- a. RAID 1.
+- b. RAID 6.
+- c. RAID 0.
+- d. RAID 5.
+- e. RAID 3.
 
 ---
 
@@ -51,11 +51,11 @@ Questão 4
 
 O tipo de virtualização antes ilustrado, em que a máquina virtual enxerga uma abstração do hardware não idêntica à do hardware físico, que requer modificação do sistema operacional convidado, é conhecido como
 
-a. virtualização total.
-b. paravirtualização.
-c. virtualização embasada em translação binária.
-d. virtualização por hypervisor.
-e. virtualização assistida.
+- a. virtualização por hypervisor.
+- b. paravirtualização.
+- c. virtualização embasada em translação binária.
+- d. virtualização total.
+- e. virtualização assistida.
 
 ---
 

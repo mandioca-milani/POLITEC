@@ -18,11 +18,11 @@ for i, k in zip(q, range(1, len(q) + 1)):
     if len(i['e']) == 5:
         random.shuffle(i['e'])
         md += '\n'.join([
-            f'a. {i["e"][0]}',
-            f'b. {i["e"][1]}',
-            f'c. {i["e"][2]}',
-            f'd. {i["e"][3]}',
-            f'e. {i["e"][4]}',
+            f'- a. {i["e"][0]}',
+            f'- b. {i["e"][1]}',
+            f'- c. {i["e"][2]}',
+            f'- d. {i["e"][3]}',
+            f'- e. {i["e"][4]}',
         ]) + '\n'
         if i['r'] == i['e'][0]:
             r += [f'{k} - A']
