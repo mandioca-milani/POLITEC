@@ -13,6 +13,21 @@ tecnologia = [
         ],
         'r': '',
     },
+    {
+        'q': [
+            '<!-- PC-PB 2021 - Cargo 7 Questão xx -->',
+            '![](./pc_pb_2021_cargo_7/pc_pb_2021_cargo_7_54.png)',
+            '''O tipo de virtualização antes ilustrado, em que a máquina virtual enxerga uma abstração do hardware não idêntica à do hardware físico, que requer modificação do sistema operacional convidado, é conhecido como''',
+        ],
+        'e': [
+            'virtualização embasada em translação binária.',
+            'virtualização total.',
+            'virtualização por hypervisor.',
+            'paravirtualização.',
+            'virtualização assistida.',
+        ],
+        'r': '',
+    },
     #{
         #'q': [
             #'<!-- PC-PB 2021 - Cargo 7 Questão xx -->',
