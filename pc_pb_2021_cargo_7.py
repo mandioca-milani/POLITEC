@@ -198,7 +198,7 @@ tecnologia = [
             'leitura não confirmada.',
             'leitura repetitiva.',
         ],
-        'r': '',
+        'r': 'serializável.',
     },
     {
         'q': [
