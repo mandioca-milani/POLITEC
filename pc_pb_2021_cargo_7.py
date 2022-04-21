@@ -61,9 +61,9 @@ tecnologia = [
             '<!-- PC-PB 2021 - Cargo 7 Questão 57 -->',
             'Python é uma linguagem procedural que utiliza quatro tipos de dados predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A respeito desses tipos de dados, julgue os itens a seguir.',
             '\n'.join([
-                'i. O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.',
-                'ii. A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.',
-                'iii. A lista é um tipo de dados variável que permite a alteração de seus elementos após a sua criação.',
+                '- i. O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.',
+                '- ii. A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.',
+                '- iii. A lista é um tipo de dados variável que permite a alteração de seus elementos após a sua criação.',
             ]),
             'Assinale a opção correta.',
         ],
@@ -74,7 +74,7 @@ tecnologia = [
             'Apenas os itens I e III estão certos.',
             'Apenas os itens II e III estão certos.',
         ],
-        'r': '',
+        'r': 'Apenas os itens I e III estão certos.',
     },
     {
         'q': [
@@ -109,9 +109,9 @@ tecnologia = [
             '<!-- PC-PB 2021 - Cargo 7 Questão 60 -->',
             'De forma genérica, um processo de engenharia reversa parte de um modelo de implementação e resulta em um modelo conceitual que descreve, de forma abstrata, a implementação em questão. Nesse contexto e considerando o caso de banco de dados, julgue os itens a seguir.',
             '\n'.join([
-                'i. A engenharia reversa de modelos relacionais é útil quando não se tem um modelo conceitual para um banco de dados existente.',
-                'ii. O uso da engenharia reversa é útil quando o esquema do banco de dados sofre modificações ao longo do tempo, sem que elas tenham sido registradas no modelo conceitual.',
-                'iii. Um caso específico de engenharia reversa de banco de dados é o da engenharia reversa de modelos relacionais, que tem como ponto de partida um modelo lógico de um banco de dados relacional e que tem como resultado um modelo conceitual.',
+                '- i. A engenharia reversa de modelos relacionais é útil quando não se tem um modelo conceitual para um banco de dados existente.',
+                '- ii. O uso da engenharia reversa é útil quando o esquema do banco de dados sofre modificações ao longo do tempo, sem que elas tenham sido registradas no modelo conceitual.',
+                '- iii. Um caso específico de engenharia reversa de banco de dados é o da engenharia reversa de modelos relacionais, que tem como ponto de partida um modelo lógico de um banco de dados relacional e que tem como resultado um modelo conceitual.',
             ]),
             'Assinale a opção correta.'
         ],
@@ -143,9 +143,9 @@ tecnologia = [
             '<!-- PC-PB 2021 - Cargo 7 Questão 62 -->',
             'Julgue os itens subsequentes, relativos à ferramenta debugger, usada na engenharia reversa.',
             '\n'.join([
-                'i. Realiza a análise estática de um código binário.',
-                'ii. Microsoft WinDBG, OllyDBG, IDA Pro, PyDBG e SoftIce são exemplos de debuggers para Windows.',
-                'iii. Permite modificar o conteúdo de registradores e memória e, assim, altera a execução do programa.',
+                '- i. Realiza a análise estática de um código binário.',
+                '- ii. Microsoft WinDBG, OllyDBG, IDA Pro, PyDBG e SoftIce são exemplos de debuggers para Windows.',
+                '- iii. Permite modificar o conteúdo de registradores e memória e, assim, altera a execução do programa.',
             ]),
             'Assinale a opção correta.',
         ],
