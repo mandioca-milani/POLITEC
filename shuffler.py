@@ -3,9 +3,11 @@ import random
 
 
 import pc_pb_2021_cargo_7
+import pc_pb_2021_cargo_2
 
 q = list()
 q += pc_pb_2021_cargo_7.tecnologia
+q += pc_pb_2021_cargo_2.tecnologia
 random.shuffle(q)
 
 
