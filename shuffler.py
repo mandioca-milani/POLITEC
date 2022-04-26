@@ -2,12 +2,14 @@ import os
 import random
 
 
+import abin_2018_03_11_area_8
 import pc_pb_2021_cargo_7
 import pc_pb_2021_cargo_2
 
 q = list()
+q += abin_2018_03_11_area_8.q
 q += pc_pb_2021_cargo_7.tecnologia
-q += pc_pb_2021_cargo_2.tecnologia
+#q += pc_pb_2021_cargo_2.tecnologia
 random.shuffle(q)
 
 
